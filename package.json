@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oleksandr-Sulyma/traveller-backend.git"
+    "url": "git+https://github.com/Ocheretko-Fullstack/Pet-Project-Traveller_Backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Oleksandr-Sulyma/traveller-backend/issues"
+    "url": "https://github.com/Ocheretko-Fullstack/Pet-Project-Traveller_Backend/issues"
   },
-  "homepage": "https://github.com/Oleksandr-Sulyma/traveller-backend#readme",
+  "homepage": "https://github.com/Ocheretko-Fullstack/Pet-Project-Traveller_Backend#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "celebrate": "^15.0.3",
